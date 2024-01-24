@@ -1,3 +1,0 @@
-# MajorProject
-ProstheticArm
-hello
